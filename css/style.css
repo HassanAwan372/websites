@@ -1,0 +1,9 @@
+body{
+    background-color: lightblue;
+}
+.container{
+    margin-top: 150px;
+}
+.row input{
+    margin-top: 30px;
+}
